@@ -1,0 +1,8 @@
+.phone {
+  width: 352px;
+  height: 730px;
+  background: lightblue;
+  border-radius: 3rem;
+  border: 1rem solid var(--color-text);
+  padding: 2rem;
+}
